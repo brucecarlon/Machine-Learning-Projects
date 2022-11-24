@@ -25,11 +25,11 @@ Converts documents to a matrix of TF-IDF features.
 
 ##### Term frequency
 
-$$TF_{word,document} = \frac{\number\_of\_times\_word\_appears\_in\_document}{total\_\number\_of\_words\_in\_document}$$
+$$TF_{word,document} = \frac{number \ of \ times \ word \ appears \ in \ document}{total\ number\ of\ words\ in\ document}$$
 
 #### Inverse document frequency
 
-$$ IDF_{word} = \log\left(\frac{total\_\number\_of\_documents}{\number\_of\_documents\_containing\_word}\right) $$
+$$ IDF_{word} = \log\left(\frac{total\ number\ of\ documents}{ number\ of\ documents\ containing\ word}\right) $$
 
 TfidfVectorizer = TF*IDF 
 

@@ -11,6 +11,15 @@ This a collection of inductory machine learning projects intended to be a demons
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.A patients diagnosis maybe either be 2 for benign or  4 for malignant. We make use of the KNeighbours Classifcation and Logistic Regression models.
 
+
+## Predicting Survivors From The Titanic Shipwreck
+
+> An application of machine learning classifaction algothrims
+
+On April 15, 1952 the RMS Titanic set sails on her maiden voyage. Knwons the latgest ship at the time, the behemoth was deemed unsinkable. Unfortunately nature would prove otherwise, as the Titanic crashed into an iceberg and sank. More than 1500 people lost their lives making this event one of the deadilest of a single ship.\
+This program aims to make use of the information avaiable about the passengers of the Titanic to predict which of the passengers would survive.
+
+
 ## SMS SPAM CLASSIFIER
 
 > Using NLP and machone learning algothrims to classify sms messages as spam

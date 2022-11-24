@@ -1,2 +1,4 @@
-# Breast_Cancer_Data
-This program uses the Breast_Cancer dataset from sklearn.datasets, the aim is to catogorize if a given entry in the dataset is class 2 or class 4 cancer type
+## Breast Cancer Wisconsin (Diagnostic) Data Set
+>This dataset is a binary classification problem. 
+
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.A patients diagnosis maybe either be 2 for benign or  4 for malignant. We make use of the KNeighbours Classifcation and Logistic Regression models.

@@ -4,7 +4,7 @@
 
 ## Description
 
-This a collection of inductory machine learning projects intended to be a demonstartion of how to make use some of the most common data sets are available to a beginner in data science and machine learning.
+This a collection of introductory machine learning projects intended to be a demonstartion of how to make use some of the most common data sets that are available to a beginner in data science and machine learning.
 
 ## 1. Breast Cancer Wisconsin (Diagnostic) Data Set
 >This dataset is a binary classification problem. 
